@@ -5,7 +5,7 @@ This work releases the source code of iDEbbo (iDE/BBO: An Improved Biogeography-
 We propose an iDE/BBO algorithm referring to the components from CPBBOCO algorithm [1] 
 and the differential evolution (DE) theory. 
 
-To further improve the algorithm exploration ability and mitigate these weaknesses, 
+To further improve the algorithm exploration ability and mitigate some weaknesses, 
 our algorithm designs a hybrid migration method and a scalable direction mutation operation.
 
 Empirical results demonstrate that our iDE/BBO can achieve the better algorithm performance by
